@@ -6,7 +6,7 @@ Ce *repo* est dédié aux participants de la formation Gestion du Risque de Crédit
 
 Vous y trouverez mes notes de cours, les exercices sous format Excel, les données sur lesquelles nous allons travailler, et les codes et résultats des ateliers sur R.
 
-En préambule de cette formation, il est nécessaire que chaque participant fasse plusieurs téléchargements sur son ordinateur et suive les 3 étapes suivantes dans l'ordre indiqué~:
+En préambule de cette formation, il est nécessaire que chaque participant fasse plusieurs téléchargements sur son ordinateur et suive les 3 étapes suivantes dans l'ordre indiqué :
 
 1. télécharger le logiciel R à partir du site [__projet R__](https://www.r-project.org/). Les étapes sont clairement expliquées sur la première page du site.
 2. télécharger l'environnement RStudio sur le site de téléchargement de [__RStudio__](https://rstudio.com/products/rstudio/download/). Il faut télécharger la version gratuite de RStudio.
